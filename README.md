@@ -1,7 +1,6 @@
 # Hi there! 👋
 
 I'm a developer from Korea. I enjoy creating responsive web designs and web applications.\
-`This account was created a bit late because I was previously active on another account.`
 
 ## 💻 Tech Stack
 
