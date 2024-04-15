@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a developer from Korea. I enjoy creating responsive web designs and web applications.\
+I'm a developer from Korea. I enjoy creating responsive web designs and web applications.
 
 ## 💻 Tech Stack
 
