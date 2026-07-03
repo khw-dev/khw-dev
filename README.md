@@ -1,8 +1,17 @@
 # Hi there! 👋
 
-I'm a developer from Korea. I enjoy creating responsive web designs and web applications.
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="banner/light.svg">
+  </picture>
+</div>
 
-## 🔗 Link
+I enjoy creating responsive web designs and web applications.
 
+## 🔗 Links
+
+- [Email](mailto:me@khw.dev)
 - [Github](https://github.com/khw-dev)
-- [Email](mailto:khw.developer@gmail.com)
+- [Portfolio](https://khw.dev)
+- [Instagram](https://www.instagram.com/khw.dev)
